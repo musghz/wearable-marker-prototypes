@@ -4,12 +4,12 @@ Wearable markers for motion capture using a webcam
 
 To cut out:
 
-markerBack20mm
+planarMarkerV04-20mm
 
-markerCap20mm4s
+planarMarkerV04-40mm
 
-markerCap20mm5s
+planarMarkerV04-60mm
 
-markerCap20mm6s
+planarMarkerMountPlateV04
 
-markerCutoutTemplate20mm
+markerRingeTurnTableTopV01
